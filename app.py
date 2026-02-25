@@ -346,4 +346,4 @@ if __name__ == '__main__':
     print('  - API1: http://88.99.61.159:4000/getdata')
     print('  - API2: http://94.130.136.44:4000/getdata')
 
-    app.run(host='0.0.0.0', port=7860, debug=False, threaded=True)
+    app.run(host='0.0.0.0', port=8000, debug=True, threaded=True)
